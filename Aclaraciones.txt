@@ -1,0 +1,12 @@
+Lo que hicimos en este juego fue un calculador de propinas. En lo que nosotros le propocionamos el monto TOTAL de la
+cena , despues nos pide el porcentaje que le queremos dar al moso , el siguiente nos pide que le digamos cuantas son
+las personas que van a aportar para la propinas entonces lo divide por la cantidad de personas.
+seria entonces.
+
+
+monto TOTAL 3000 
+porcentaje que queremos dar = 15%
+cantidad de personas = 3 
+el 15 % de 3000 = 450
+TOTAL a pagar por persona 450 // 3 
+a PAGAR por persona = 150 
